@@ -8,7 +8,40 @@ h1 {
   margin: 0;
 }
 
-.container{
+p {
+  color: black;
+}
+
+.result {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.result.daikichi {
+  color: red;
+}
+
+.result.chuukichi {
+  color: green;
+}
+
+.result.shoukichi {
+  color: orange;
+}
+
+.result.suekichi {
+  color: blue;
+}
+
+.result.kyou {
+  color: purple;
+}
+
+.result.daikyou {
+  color: black;
+}
+
+.container {
   background: white;
   padding: 30px;
   border-radius: 10px;
